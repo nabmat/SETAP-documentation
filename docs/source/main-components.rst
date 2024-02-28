@@ -1,0 +1,1 @@
+Automation. The whole idea is that the whole project will be automated and the user will simply just log in and see the tasks with the highest priority. 

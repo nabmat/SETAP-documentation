@@ -1,0 +1,1 @@
+An automated calender that will prioritise certain tasks based on how important they are. It will get all of the users tasks and prioritise it. E.G if a student has an exam and on the same day they need to go to the gym then the exam will be given a higher priority.

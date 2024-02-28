@@ -1,0 +1,1 @@
+The scope is to create an automated calender that will schedule the users tasks based on availability and priority 
